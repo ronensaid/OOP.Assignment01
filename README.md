@@ -1,1 +1,3 @@
 # OOP.Assignment01
+
+this project is a add-on to the first project of undoablestringbuilder, in this project we implement the observer which updates all members about any member that registers or unregisters using shallow copy , the given classes were sender,Member so we implemented these two classes in ConcreteMember file and GroupAdmin file, in the GroupAdmin class we implement the sender class, we add two more functions which is register and unregister Members to the UndoableStringBuilder functions that were made in the last Assignment and the ConcreteMember implements Member class which updates all the members.
